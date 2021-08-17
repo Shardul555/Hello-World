@@ -1,5 +1,5 @@
-## Achievements in RetroPlayer
-
+## Achievements in RetroPlayer, GSoC'21
+![GSOC'21](https://user-images.githubusercontent.com/56973333/129748031-51debb7d-b7c3-419b-8aaf-d1a8d05ea0b1.png)
 You can use the [editor on GitHub](https://github.com/Shardul555/Hello-World/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
